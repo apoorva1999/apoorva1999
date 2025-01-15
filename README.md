@@ -1,7 +1,5 @@
 # Hi there, I'm Apoorva! 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=apoorva1999.apoorva1999)
-
 ## About Me
 
 I'm a passionate software developer with a keen interest in algorithms, data structures, and system-level programming. I love exploring new technologies and applying them to solve real-world problems.
