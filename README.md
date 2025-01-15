@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there, I'm Apoorva! 👋
 
-<!--
-**apoorva1999/apoorva1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![visitors](https://visitor-badge.glitch.me/badge?page_id=apoorva1999.apoorva1999)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate software developer with a keen interest in algorithms, data structures, and system-level programming. I love exploring new technologies and applying them to solve real-world problems.
+
+## 🔧 Technologies & Tools
+
+- **Languages:** C, C++, Java, Python, Bash
+- **Tools:** Sprint Boot, Tensorflow, Scikit-learn, ETL, Pytorch, Automated Testing Frameworks (e.g. JUnit and Kotest), AWS, Lambda, Databricks, Docker, Git, Linux, GraphQL, Spark, Kafka, Hadoop
+
+## 📈 GitHub Stats
+
+![Apoorva's GitHub stats](https://github-readme-stats.vercel.app/api?username=apoorva1999&show_icons=true&theme=radical)
+
+## 📫 How to reach me
+
+- **Email:** apoorva@example.com
+- **LinkedIn:** [Apoorva](https://www.linkedin.com/in/apoorva1999/)
+
+## 🚀 Projects
+
+### [Optimised External Sorting Algorithm](https://github.com/apoorva1999/optimised-external-sorting)
+An optimized external sorting algorithm designed to handle massive datasets that do not fit into main memory. This project demonstrates efficient use of disk storage and memory management techniques.
+
+### [B+ Tree Based Indexing](https://github.com/apoorva1999/b-plus-tree-indexing)
+A B+ tree-based indexing system that enhances database search performance. This project includes implementations of insert, delete, and search operations for B+ trees, commonly used in database indexing.
+
+### [WSH Shell](https://github.com/apoorva1999/wsh-shell)
+A custom shell implementation for Unix-like operating systems. WSH Shell provides a user-friendly command-line interface with built-in commands and support for scripting.
+
+## 🌱 Currently Learning
+
+- Big Data Systems
+- Distributed Systems
+- Foundation Models
+
+## 💬 Let's Connect
+
+Feel free to reach out to me for collaboration or just a friendly chat about tech and innovation. I'm always open to learning and sharing knowledge with others.
+
+---
+
+⭐️ From [Apoorva](https://github.com/apoorva1999)
