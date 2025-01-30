@@ -20,7 +20,7 @@ I'm a passionate software developer with a keen interest in algorithms, data str
 
 ## 🚀 Projects
 
-### [Optimised External Sorting Algorithm](https://github.com/apoorva1999/optimised-external-sorting)
+### [Optimised External Sorting Algorithm](https://github.com/apoorva1999/Optimized-External-Sorting-Algorithm-for-Database-Records)
 An optimized external sorting algorithm designed to handle massive datasets that do not fit into main memory. This project demonstrates efficient use of disk storage and memory management techniques.
 
 ### [B+ Tree Based Indexing](https://github.com/apoorva1999/b-plus-tree-indexing)
