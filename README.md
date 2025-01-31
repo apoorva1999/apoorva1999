@@ -2,12 +2,13 @@
 
 ## About Me
 
-I'm a passionate software developer with a keen interest in algorithms, data structures, and system-level programming. I love exploring new technologies and applying them to solve real-world problems.
+I'm a passionate software developer with a keen interest in algorithms, data structures, machine learning and system-level programming. I love exploring new technologies and applying them to solve real-world problems.
 
 ## 🔧 Technologies & Tools
 
 - **Languages:** C, C++, Java, Python, Bash
-- **Tools:** Sprint Boot, Tensorflow, Scikit-learn, ETL, Pytorch, Automated Testing Frameworks (e.g. JUnit and Kotest), AWS, Lambda, Databricks, Docker, Git, Linux, GraphQL, Spark, Kafka, Hadoop
+- **Tools:** Spring Boot, Automated Testing Frameworks (e.g. JUnit and Kotest), Keras, OpenCV, Tensorflow, Scikit-learn, Pytorch, Docker, Git, Linux, MySQL, AWS, NumPy,
+ETL, Pandas, Hugging Face, Spark, Kafka, Hadoop
 
 ## 📈 GitHub Stats
 
@@ -31,6 +32,7 @@ A custom shell implementation for Unix-like operating systems. WSH Shell provide
 
 ## 🌱 Currently Learning
 
+- Machine Learning
 - Big Data Systems
 - Distributed Systems
 - Foundation Models
