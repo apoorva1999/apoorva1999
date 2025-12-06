@@ -16,7 +16,7 @@ ETL, Pandas, Hugging Face, Spark, Kafka, Hadoop
 
 ## 📫 How to reach me
 
-- **Email:** apoorva@example.com
+- **Email:** amittal42@wisc.edu
 - **LinkedIn:** [Apoorva](https://www.linkedin.com/in/apoorva1999/)
 
 ## 🚀 Projects
