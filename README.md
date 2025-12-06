@@ -6,7 +6,7 @@ I'm a passionate software developer with a keen interest in algorithms, data str
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** C, C++, Java, Python, Bash
+- **Languages:** C, C++, Java, Python, Kotlin
 - **Tools:** Spring Boot, Automated Testing Frameworks (e.g. JUnit and Kotest), Keras, OpenCV, Tensorflow, Scikit-learn, Pytorch, Docker, Git, Linux, MySQL, AWS, NumPy,
 ETL, Pandas, Hugging Face, Spark, Kafka, Hadoop
 
